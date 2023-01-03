@@ -1,2 +1,3 @@
 Nama : Ahmad Diki Apriansyah
-Stack : Frontend
+Stack : Fronten
+Hobi : Membaca
